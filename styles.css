@@ -7,9 +7,9 @@
 	justify-content: center;
 	align-items: center;
 }
-.item{
+.item-1{
 	width:100px;
 	height:100px;
-	
+	text-align:center;
 	background-color:red;
 }
